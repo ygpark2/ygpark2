@@ -19,7 +19,7 @@ Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.goo
 <a href="mailto:ygpark2@gmail.com">
   <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:ygpark2@gmail.com">
+<a href="https://www.facebook.com/ygpark2">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
