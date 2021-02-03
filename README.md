@@ -3,7 +3,7 @@
 Hi, I'm Young Gyu Park, a Full Stack Developer which focuses on Flutter 💙 Go and Kotlin 💚. Currently working as a Full Stack Programmer at Ainsoft Inc.
 
 
-Apart from that, I love my family and want to purse eternal or sustainable happiness. I am a Bhudist.
+Apart from that, I love my family and want to purse eternal or sustainable happiness. I am a budist.
 
 <p align='center'>
 <a href="https://twitter.com/ygpark2">
