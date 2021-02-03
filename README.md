@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align='center'>Young Gyu Park! 👋</h1>
 
-<!--
-**ygpark2/ygpark2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Young Gyu Park, a Full Stack Developer which focuses on Flutter 💙 Go and Kotlin 💚. Currently working as a Full Stack Programmer at Ainsoft Inc.
 
-Here are some ideas to get you started:
+Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.google.com/community/dsc), Instructor at [AEJ Community](https://www.instagram.com/aej.id/?hl=id), Co-Organizer at Flutter Indonesia Community and [Flutter Jakarta Community](https://www.meetup.com/Flutter-Jakarta/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align='center'>
+<a href="https://twitter.com/ygpark2">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ygpark2/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <!--
+<a href="https://medium.com/@ygpark2">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
 -->
+<a href="mailto:ygpark2@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
+
+## Stats:
+
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ygpark2">
+
+## Languages & Frameworks:
+- Flutter (Dart)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
+- Android (Java/Kotlin)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
+- Micro (Go)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"/>
+- Springboot (Java/Kotlin)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/>
+- Ruby on Rails (Ruby)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg"/>
+- Django (Python)<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
