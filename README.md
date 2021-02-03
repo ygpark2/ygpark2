@@ -2,7 +2,8 @@
 
 Hi, I'm Young Gyu Park, a Full Stack Developer which focuses on Flutter 💙 Go and Kotlin 💚. Currently working as a Full Stack Programmer at Ainsoft Inc.
 
-Apart from that, I also Ex-Lead at [Google DSC Indonesia](https://developers.google.com/community/dsc), Instructor at [AEJ Community](https://www.instagram.com/aej.id/?hl=id), Co-Organizer at Flutter Indonesia Community and [Flutter Jakarta Community](https://www.meetup.com/Flutter-Jakarta/)
+
+Apart from that, I love my family and want to purse eternal or sustainable happiness. I am a Bhudist.
 
 <p align='center'>
 <a href="https://twitter.com/ygpark2">
