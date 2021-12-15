@@ -14,8 +14,6 @@
     "**/node_modules": true
   },
   "foam.edit.linkReferenceDefinitions": "off",
-  "foam.openDailyNote.directory": "journal",
-  "foam.openDailyNote.titleFormat": "fullDate",
   "foam.logging.level": "debug",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
