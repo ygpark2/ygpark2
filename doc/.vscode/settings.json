@@ -1,5 +1,5 @@
 {
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
@@ -15,6 +15,10 @@
   },
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.logging.level": "debug",
+  "foam.openDailyNote.directory": "diary", // a relative directory path will get appended to the workspace root. An absolute directory path will be used unmodified.
+  "foam.openDailyNote.filenameFormat": "'daily-diary'-yyyy-mm-dd",
+  "foam.openDailyNote.fileExtension": "md",
+  "foam.openDailyNote.titleFormat": "'Journal Entry, ' dddd, mmmm d",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
