@@ -8,9 +8,9 @@ import (
 // Traverse the left sub-tree, root, right sub-tree
 func ShowInOrder(root *Node) {
 	if root != nil {
-		showInOrder(root.left)
+		ShowInOrder(root.left)
 		fmt.Println(root.value)
-		showInOrder(root.right)
+		ShowInOrder(root.right)
 	}
 }
 
@@ -19,8 +19,8 @@ func ShowInOrder(root *Node) {
 func ShowPreOrder(root *Node) {
 	if root != nil {
 		fmt.Println(root.value)
-		showInOrder(root.left)
-		showInOrder(root.right)
+		ShowInOrder(root.left)
+		ShowInOrder(root.right)
 	}
 }
 
@@ -29,7 +29,7 @@ func ShowPreOrder(root *Node) {
 func ShowPostOrder(root *Node) {
 	if root != nil {
 		fmt.Println(root.value)
-		showInOrder(root.left)
-		showInOrder(root.right)
+		ShowInOrder(root.left)
+		ShowInOrder(root.right)
 	}
 }

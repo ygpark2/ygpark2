@@ -3,13 +3,13 @@ package main
 import (
 	"fmt"
 
-	bst "./bst.go"
+	"algorithm/internal/tree"
 )
 
 func main() {
 
 	// Creating a binary search tree
-	test := bst.NewBst()
+	test := tree.NewBst()
 
 	// Inserting some data
 	test.Insert(4)
@@ -23,15 +23,15 @@ func main() {
 
 	// Print the tree in-order
 	// Traverse the left sub-tree, root, right sub-tree
-	tree.showInOrder(test.root)
+	tree.ShowInOrder(test.Root())
 
 	// Print the tree pre-order
 	// Traverse the root, left sub-tree, right sub-tree
-	tree.showPreOrder(test.root)
+	tree.ShowPreOrder(test.Root())
 
 	// Print the tree post-order
 	// Traverse left sub-tree, right sub-tree, root
-	tree.showPostOrder(test.root)
+	tree.ShowPostOrder(test.Root())
 
 	// Removes the item from the tree.
 	// Returns true if removed, false if not found.

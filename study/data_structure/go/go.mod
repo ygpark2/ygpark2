@@ -1,3 +1,3 @@
-module github.com/ygpark2/study
+module ds
 
-go 1.15
+go 1.17
