@@ -31,39 +31,40 @@ func (da *DequeArray) AddFront(data interface{}) error {
 	}
 
 	if da.front == -1 && da.back == -1 { // 데큐가 비어있는지 확인
-		da.front++ //	앞부분에 추가
-		da.back++  //	뒷부분에 추가
+		da.front++ //	앞부분 증가
+		da.back++  //	뒷부분 증가
 	} else {
-		if da.front == 0 {
-			da.front = int16(da.capacity) - 1
-		} else {
-			da.front--
+		if da.front == 0 { // 앞부분이 맨 앞이라면
+			da.front = int16(da.capacity) - 1 // 앞부분이 맨 뒤로 이동
+		} else { // 앞부분이 맨 앞이 아니라면
+			da.front-- // 앞부분 하나 줄임
 		}
 	}
-	da.elements[da.front] = data
-	da.size++
-	return nil
+	da.elements[da.front] = data // 앞부분에 추가
+	da.size++                    // 크기 증가
+	return nil                   // 에러 없음
 }
 
+// 뒷부분에 추가
 func (da *DequeArray) AddBack(data interface{}) error {
-	if da.IsFull() {
-		return errors.New("Deque is full")
+	if da.IsFull() { // 데큐가 꽉 찼는지 확인
+		return errors.New("Deque is full") // 꽉 찼으면 에러 반환
 	}
 
-	if da.front == -1 && da.back == -1 {
-		da.front++
-		da.back++
-	} else {
-		if da.back == int16(da.capacity)-1 {
-			da.back = int16(0)
-		} else {
-			da.back++
+	if da.front == -1 && da.back == -1 { // 데큐가 비어있는지 확인
+		da.front++ // 앞부분 증가
+		da.back++  // 뒷부분 증가
+	} else { // 데큐가 비어있지 않다면
+		if da.back == int16(da.capacity)-1 { // 뒷부분이 맨 뒤라면
+			da.back = int16(0) // 뒷부분이 맨 앞으로 이동
+		} else { // 뒷부분이 맨 뒤가 아니라면
+			da.back++ // 뒷부분 하나 증가
 		}
 	}
 
-	da.elements[da.front] = data
-	da.size++
-	return nil
+	da.elements[da.front] = data // 뒷부분에 추가
+	da.size++                    // 크기 증가
+	return nil                   // 에러 없음
 }
 
 func (da *DequeArray) RemoveFront() interface{} {
