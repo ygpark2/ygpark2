@@ -29,7 +29,10 @@ Apart from that, I love my family and want to purse eternal or sustainable happi
 
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ygpark2">
+![My github stats](https://github-readme-stats.vercel.app/api?username=ygpark2&show_icons=true&include_all_commits=true&hide_border=true&title_color=24292e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ygpark2&layout=compact&langs_count=8&hide_border=true&title_color=24292e)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ygpark2&hide_border=true&title_color=24292e&text_color=999999)
+
 
 ## Languages & Frameworks:
 - Flutter (Dart)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
