@@ -1,17 +1,15 @@
-<!-- The below front-matter block is for foam-specific template settings -->
-<!-- It is removed when the user creates a new note using this template -->
 ---
-<!-- The default filepath to use when using this template -->
-<!-- Relative paths are relative to the workspace, absolute paths are absolute -->
-<!-- Note that you can include VSCode snippet variables to template the path -->
-filepath: `note/${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}_${titleSlug}.md`
+foam_template: # this is a YAML "Block" mapping ("Flow" mappings aren't supported)
+  name: Note Template # Attributes must be on the lines immediately following `foam_template`
+  description: This is simple note template
+  filepath: "note/${FOAM_DATE_YEAR/년//gi}/${FOAM_DATE_MONTH/월//gi}/${FOAM_DATE_YEAR/년//gi}-${FOAM_DATE_MONTH/월//gi}-${FOAM_DATE_DATE/일//gi}_${FOAM_TITLE}.md"
+  # filepath: "note/note-${FOAM_DATE_YEAR/년//gi}-${FOAM_DATE_MONTH/월//gi}-${FOAM_DATE_DATE/일//gi}.md"
 ---
 
 <!-- The actual contents of the template begin after the `---` thematic break immediately below this line-->
 ---
----
-created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}
+created: ${FOAM_DATE_YEAR/년//gi}-${FOAM_DATE_MONTH/월//gi}-${FOAM_DATE_DATE/일//gi}T${FOAM_DATE_HOUR}:${FOAM_DATE_MINUTE}:${FOAM_DATE_SECOND}
 tags: []
 ---
 
-# ${title}
+# ${FOAM_TITLE}
