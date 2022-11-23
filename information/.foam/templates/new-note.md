@@ -2,7 +2,7 @@
 foam_template: # this is a YAML "Block" mapping ("Flow" mappings aren't supported)
   name: Note Template # Attributes must be on the lines immediately following `foam_template`
   description: This is simple note template
-  filepath: "note/${FOAM_DATE_YEAR/년//gi}/${FOAM_DATE_MONTH/월//gi}/${FOAM_DATE_YEAR/년//gi}-${FOAM_DATE_MONTH/월//gi}-${FOAM_DATE_DATE/일//gi}_${FOAM_TITLE}.md"
+  filepath: "information/note/${FOAM_DATE_YEAR/년//gi}/${FOAM_DATE_MONTH/월//gi}/${FOAM_DATE_YEAR/년//gi}-${FOAM_DATE_MONTH/월//gi}-${FOAM_DATE_DATE/일//gi}_${FOAM_TITLE}.md"
   # filepath: "note/note-${FOAM_DATE_YEAR/년//gi}-${FOAM_DATE_MONTH/월//gi}-${FOAM_DATE_DATE/일//gi}.md"
 ---
 
