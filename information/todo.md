@@ -14,3 +14,4 @@
   - [ ] 
 - [ ] JTS 작업 목록
   - [ ] You can also select multiple lines and mark them all at once!
+- [ ] 러시아어 배우기
