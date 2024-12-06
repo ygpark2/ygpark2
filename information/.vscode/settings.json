@@ -1,23 +1,25 @@
 {
+  "files.autoSave": "onFocusChange",
   "editor.minimap.enabled": true,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
   "[markdown]": {
     "editor.quickSuggestions": {
-      "comments": "on",
-      "strings": "on",
-      "other": "on"
+      "other": true,
+      "comments": false,
+      "strings": false
     }
   },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
-    "**/node_modules": true
+    "**/node_modules": true,
+    "_site/**": true
   },
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.logging.level": "debug",
   "foam.openDiaryNote.directory": "${projectRoot}/information/diary", // a relative directory path will get appended to the workspace root. An absolute directory path will be used unmodified.
   "foam.openDiaryNote.filenameFormat": "'daily-diary'-yyyy-mm-dd",
@@ -32,4 +34,6 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "files.insertFinalNewline": true,
+  "markdown.styles": [".vscode/custom-tag-style.css"]
 }

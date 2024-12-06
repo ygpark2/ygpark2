@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  jupyter:
+    image: jupyterlab:latest
+    container_name: jupyterlab-container
+    ports:
+      - 8888:8888
+    volumes:
+      - my_volume:/project
+
+volumes:
+  my_volume:
+    external: true

@@ -2,25 +2,25 @@
 {
 	"folders": [
 	  {
-		"name": "Documentation",
-		"path": "information"
+		"name": "Knowledge Management"
+		"path": "./information"
 	  },
 	  {
 		"name": "Study Algorith",
-		"path": "study/algorithm"
+		"path": "./study/algorithm"
 	  },
 	  {
 		"name": "Study Data Structure",
-		"path": "study/data_structure"
+		"path": "./study/data_structure"
 	  },
 	  {
 		"name": "Study Notebook",
-		"path": "study/notebooks"
+		"path": "./study/notebooks"
 	  },
 	],
 	"settings": {
-	  "window.zoomLevel": 1.3,
-	  "files.autoSave": "afterDelay"
+	  	"window.zoomLevel": 1.3,
+	  	"files.autoSave": "afterDelay"
 	},
 	"extensions": {
 	  "recommendations": [
