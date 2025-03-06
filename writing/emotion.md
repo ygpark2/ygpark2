@@ -1,0 +1,7 @@
+# How the K-culture influence the way Korean perceive the world.
+
+In times of crisis, it is remarkable experience to witness how K-culture inspires Koreans to unite, protest, and voice their opinions. My generation was the starting point of the beginning of K-culture and have seen the whole progress of K-culture. At the time, many young people are eager to find ways to showcase their strength as society largely recognized only those who excelled academically, leaving most students feeling like failures. For most students who weren't academically inclined, cultural activities were the only way to showcase their talents and strengths. Basically, K-culture emerged from those who had long struggled with feelings of inferiority, and is the only way out for young people seeking to regain a sense of dignity. Young people can experience a sense of belonging, equality, and a space  free from prejudice while participating in K-cultural performances. I believe this is the key motivation for my generation to flourish K-culture.
+
+You was able to see the pinnacle of K-culture in recent impeachment protest here in South Korea. The young people who grew up in the dynamic environment of K-culture seem to excel at finding joy in every activity and have a natural talent for making any situation more enjoyable. 
+
+The young people who grew up in the dynamic environment of K-culture  seem to excel at finding joy in every activity and have a natural talent for making any situation more enjoyable.
